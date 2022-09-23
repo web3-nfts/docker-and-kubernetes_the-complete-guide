@@ -19,7 +19,7 @@ Build, test, and deploy Docker applications with Kubernetes while learning produ
 <details>
   <summary>Dive into Docker!</summary>
 
-1. []()
+1. [Finished Code and Diagrams](content/1_Finished-Code-and-Diagrams.md)
 1. []()
 </details>
 
